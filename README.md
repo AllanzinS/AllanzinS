@@ -4,3 +4,6 @@
   <a href="https://github.com/AllanzinS">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=allanzins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanzins&layout=compact&langs_count=6&theme=tokyonight"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
